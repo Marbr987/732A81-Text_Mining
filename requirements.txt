@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+notebook
+openai
+python-dotenv
+transformers
+bert_score
+
