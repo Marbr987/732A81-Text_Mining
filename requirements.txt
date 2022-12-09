@@ -6,4 +6,6 @@ openai
 python-dotenv
 transformers
 bert_score
+time
+spacy
 
