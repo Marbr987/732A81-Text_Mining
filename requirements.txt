@@ -8,4 +8,5 @@ transformers
 bert_score
 time
 spacy
+textacy
 
