@@ -9,4 +9,7 @@ bert_score
 time
 spacy
 textacy
+kmedoids
+xgboost
+shap
 
