@@ -1,0 +1,51 @@
+,gpt3_contradiction,gpt2_contradiction,gold_contradiction,gpt3_entailment,gpt2_entailment,gold_entailment,gpt3_neutral,gpt2_neutral,gold_neutral
+0,cannot,cannot,cannot,implies,is,of,just,not all,mean
+1,same time,same time,cannot be,implies that,four,rephrasing,because,all,does not
+2,at the same,time,either,implies that the,is the same,is,just because,mean,just
+3,the same time,the same time,same time,that,type of,is rephrasing of,mean,not,does
+4,cannot be,cannot be,the same time,is,is person,is rephrasing,does not,just,just because
+5,time,at the,at the same,the,there is,rephrasing of,does,just because,imply
+6,two different,at the same,time,that the,is the,in,or not,because,doesn
+7,are two,be,is either,of,of,outside,mean they,does,necessarily
+8,different,can be,simultaneously,is the same,is type,is the same,not mean,does not,not imply
+9,are two different,the same,or,is an,is type of,must be,does not mean,mean they,does not imply
+10,not,same,be,implies that they,implies,implies,mean they are,not mean,not necessarily
+11,not the same,at,one,for,are in,so,we,does not mean,not
+12,not the,and,and,the statement implies,child,is in,or,mean they are,imply that
+13,is not,the,same,statement implies that,type,order,not provide,are,doesn mean
+14,the same,can,while,statement implies,are in the,bike,provide,not necessarily,not mean
+15,same,one cannot,the same,near,mud,front of,does not provide,necessarily,does not mean
+16,at the,man cannot,at the,must,is outside,in front,know,they are,mean they
+17,and,simultaneously,can be,in,four people,in front of,know if,not mean they,not infer
+18,is not the,man cannot be,different,which is,man is person,front,not all,they,not imply that
+19,two,is not,can not be,is the,is rephrasing,must,necessarily,does not imply,infer
+20,are not,sleeping,be both,outside,is rephrasing of,off,not,not imply,not all
+21,at,be standing,cannot be both,wearing,rephrasing,crowd,not necessarily,imply,we
+22,is different,standing and,one is,form of,rephrasing of,in order,does not necessarily,doesn,can not infer
+23,be both,woman cannot,at,form,outdoors,when,may,doesn mean,because
+24,man cannot,man can be,can,is type,hand,near,could,because the,necessarily mean
+25,cannot be both,man can,both,that there,same as,red,could be,just because the,just because the
+26,be,sitting,is not,must be,asian,is running,any,is not necessarily,all
+27,two different activities,one cannot be,are different,is type of,the same as,dog is,doesn,doesn mean they,no
+28,man cannot be,either,be either,is form,is man,man,statement does,tall,have
+29,describes,sleeping at the,man cannot,is form of,large,means,statement does not,soccer,not necessarily mean
+30,statement describes,woman cannot be,the boy,man and woman,which,for,imply,she,idea
+31,one,is not man,are not,there,shovel,wearing,not necessarily mean,ball,mean they are
+32,activities,be walking,also,are,is child,as,necessarily mean,are not necessarily,that the
+33,the two statements,be playing,subject,man,outside,photographer,the statement does,it,that
+34,two statements,be standing and,not the,both statements,wouldn be,man in,all,indicate they,you can
+35,are different,sleeping at,not the same,that the dog,helmet,are people,enough information,not indicate they,he
+36,different activities,not man,opposite,posing,wouldn,dog is running,provide enough,indicate they are,you can not
+37,are not the,one,be playing,using,is outdoors,log,enough,always,because the
+38,sleeping,the man can,can be either,which,street is,members,they are taking,their,imply that the
+39,one cannot,and be,the subject,something,child in,photo,we don,mean he is,mean that
+40,contradicts the,and sitting at,man cannot be,for the,to get,in order to,enough information to,may not,we have no
+41,contradicts,and sleeping at,two,are in,object,then they,we don know,may,doesn mean they
+42,is different from,and sleeping,women,can be,house,is implied,not provide enough,the man is,have no
+43,than,cannot be standing,the people,they,get,order to,provide enough information,being,have no idea
+44,not both,sitting at the,not,with,are people,is person,mean she,holding,we have
+45,other statement,be sitting,cannot simultaneously,to,race,person,may not,her,no idea
+46,different people,while,two different,sentence,hat,is the,don know if,she is,does not necessarily
+47,is saying,or,it cannot,it,an object,girl is,don know,it is,mean he
+48,statement is saying,and sitting,but not,they are,the boy is,same as,don,mean he,to
+49,an older,man,are either,second,hand is,the same as,doesn mean,just because woman,always

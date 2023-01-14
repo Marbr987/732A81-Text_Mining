@@ -1,0 +1,51 @@
+,gpt3_contradiction,gpt2_contradiction,gold_contradiction,gpt3_entailment,gpt2_entailment,gold_entailment,gpt3_neutral,gpt2_neutral,gold_neutral
+0,time,time,time,s1s2_noun,s1s2_noun,s1s2_noun,not mean,not mean,not mean
+1,be different,not be s1_verb,not be,imply,be s1s2_noun,s1s2_noun s1s2_verb,mean,mean,necessarily
+2,different,not be,simultaneously,imply s1s2_noun,s1s2_noun be s1s2_verb,s1s2_verb,not mean be,s1_noun not mean,not imply
+3,not s2_noun,s1s2_noun not be,s2_noun time,s1s2_verb,s1s2_noun s1s2_noun s1s2_noun,s1s2_verb s1s2_noun,mean be,not mean be,not necessarily
+4,not be,s2_verb time,be different,s1s2_noun imply,s1s2_noun be,s1s2_noun be,mean be s2_verb,mean be,mean be
+5,not,s1_noun s2_verb,not,s1s2_verb s1s2_noun,s1s2_noun s1s2_noun,s1s2_noun s1s2_noun,s1_noun not mean,not s1s2_noun,mean
+6,not be s1_verb,s1_verb s2_verb,different,imply s1s2_noun be,s1s2_adj,rephrasing,know,not necessarily,not
+7,not s2_verb,be s1_verb s2_verb,s1_noun s2_noun,s1s2_noun s1s2_verb,s1_noun be s2_noun,be s1s2_noun,not provide,necessarily,not infer
+8,s1s2_noun not be,s2_noun time,not simultaneously,s1_noun imply,s1s2_noun be s1s2_noun,be rephrasing,not know,mean be s2_verb,s1_noun not
+9,s1s2_noun not,s1_verb s2_verb time,s1s2_noun not,s1s2_noun s1s2_noun,s1s2_adj s1s2_noun,be s1s2_verb,necessarily,be not necessarily,infer be
+10,be not,s1_noun s2_verb s2_noun,s1_noun s2_verb,be s1s2_noun,be type,s1s2_verb be,be s2_verb s2_noun,not s1s2_noun be,necessarily mean
+11,s2_noun time,s1s2_noun not,s1_verb s2_verb,be,type,s1_noun be,not necessarily,s1_noun not,infer
+12,s1_noun not s2_noun,s1_verb s1_noun s2_verb,not s1_verb,s1s2_noun be,s1s2_verb,s1_noun s1s2_noun,provide information,s1s2_noun not mean,assume be
+13,s2_noun be different,not,be not,be s1s2_verb,s1_noun be,s1_adj,statement not provide,not,not assume
+14,be not s2_noun,s2_verb s2_noun time,not s2_noun,s1_noun be,be s1s2_verb,s1_noun,not provide information,s1_verb s1_noun not,s2_noun
+15,not s2_verb s2_noun,not be s2_verb,be s1_verb,s1s2_noun s1s2_verb s1s2_noun,s1s2_noun s1_adj,s1s2_noun s1_verb,not,s1s2_noun be not,be s2_noun
+16,s1_noun s2_noun,s1_noun not be,s2_noun,s1_noun,s1s2_verb s1s2_noun s1s2_noun,s1_noun imply,statement not,not imply,assume
+17,s1_noun not,s2_verb,s2_noun simultaneously,s1s2_noun imply be,be s2_noun,s2_verb s1s2_noun,be s2_verb,s2_noun s2_noun,necessarily s2_verb
+18,s2_noun,be not s2_noun,subject,statement imply s1s2_noun,be s1s2_noun s1s2_noun,order,necessarily mean,s1s2_noun s1_noun,idea
+19,s1_verb s1_noun s2_verb,not s2_noun,s1_verb,imply be,be,be,not necessarily mean,s1s2_noun s2_noun,reason
+20,s1_noun s2_verb,simultaneously,s2_noun not,be s1s2_verb s1s2_noun,s1s2_noun s1s2_verb,s1_adj s1s2_noun,information,not imply be,not s1s2_noun
+21,s1_noun be not,s1_verb,not s2_verb,s1s2_noun s1_noun,s1s2_noun s1s2_noun be,s1s2_noun imply,provide,mean be s2_noun,imply
+22,s2_noun s2_verb,be s1_verb,s2_part,s1s2_adj s1s2_noun,s1s2_noun s1s2_adj,s2_adp,not imply,imply,s2_adj
+23,s2_noun not be,s1_noun s2_noun,s1_noun,s1_adj,s1s2_propn s1_noun,s1_num,not specify,not s1_adj,s2_noun s2_noun
+24,s2_verb s2_noun,s1_noun be not,s2_verb,s1s2_noun s1s2_adj s1s2_noun,s1s2_adj s1s2_noun s1s2_noun,be s2_adp,s1_noun not imply,s1s2_noun s1_verb s1_noun,know
+25,s1_noun s2_verb s2_noun,be not,not s1_noun,s1s2_noun be s1s2_verb,s1s2_noun be s1_adj,s1s2_adj s1s2_noun,specify,s2_noun,s2_verb
+26,be not s2_verb,not s1_verb,s2_verb s1_verb,statement imply,be s1s2_adj,s1s2_adj,know s2_noun,s1s2_noun s1_verb,s2_verb s2_noun
+27,s2_verb s2_noun time,not be s1_noun,opposite,form,s1_adj,s1_noun mean,provide information determine,s1_verb s1s2_noun s1_noun,be s2_adj
+28,contradict,not s2_verb,subject be,s1_noun s1_noun imply,rephrasing,s1s2_noun s1_adj,not know s2_noun,not s1_noun be,need not
+29,s1_noun not s2_verb,s2_verb s1_verb,s2_verb time,be form,be rephrasing,s1_adj s1_noun,s2_adj not,s1s2_noun be s2_adj,be indication
+30,s1_noun s2_adj,s2_noun not,simultaneously be,s1s2_noun s1_adj,s1_adj s1s2_noun,be imply,determine,s1_noun s1_noun s1_noun,indication
+31,not s2_noun s2_noun,s1_noun time,people not,s1s2_adj,s1_adj s1s2_noun be,s2_adp s1s2_noun,information determine,s2_adj,not mention
+32,s2_noun s2_verb s2_noun,s2_verb s2_noun,s1_verb s1_noun,s1s2_noun s1s2_adj,be s1s2_verb s1s2_noun,s1s2_noun s1_noun,s1s2_noun not necessarily,not necessarily s2_verb,sentence not
+33,s2_verb,s1s2_noun not s1_verb,s2_verb s2_noun,s1_noun s1_noun be,s1s2_verb s1_noun be,s1s2_verb s1s2_adj,s1_verb s1_noun not,be s2_adj,imply be
+34,s2_noun s2_noun,be s2_verb s1_verb,be s1_noun,s1_adj s1_noun s1_noun,s1_noun be s1s2_noun,s1_adp,not imply be,s1_noun not necessarily,s2_propn
+35,s1_noun s1_noun not,s2_noun,s1_noun time,s1_verb,s1_adj s1_noun be,s1_adp s1_noun,s1_noun not,s2_verb s1s2_noun s2_noun,s1_verb not
+36,statement describe,s2_noun not be,not s1s2_verb,s1_noun imply s1s2_noun,s1s2_verb s1s2_noun,s1_propn,s1_noun not necessarily,be s2_verb s2_verb,s2_verb s2_verb
+37,s2_noun s2_noun be,be s1_verb s1_adj,s2_noun s1_noun,be type,s1_verb s1s2_noun,s1s2_verb s1_noun,necessarily mean be,imply be,s2_noun s2_verb
+38,s1_verb s2_verb,s1_verb s1_adj,s2_verb not,s1s2_noun s1s2_noun s1s2_noun,s1_noun imply,call,s2_verb s2_noun,s2_verb s2_verb,s2_verb s2_adj
+39,not s2_noun s2_verb,s2_noun simultaneously,s2_noun s2_noun,s1_adj s1_noun,s1s2_verb s1s2_noun be,answer,s1s2_noun be s2_verb,s1_noun s1_noun not,s2_adj s2_noun
+40,s2_noun be not,be s1_verb s1_noun,s2_noun s1_verb,s2_noun s1s2_noun,s1s2_noun be rephrasing,rephrase,not s1_noun,mean s2_verb,be s2_verb
+41,be s1_verb s2_verb,s2_noun s2_noun time,not s2_adj,s1s2_adj s1s2_noun be,s1s2_noun be s2_adv,be form,infer s1s2_noun be,not mean s2_verb,idea be
+42,s2_noun not,s1_noun s2_noun time,wet,s1_noun s1_noun,be type s1s2_noun,s1s2_verb s2_adp,statement not necessarily,s1s2_verb s1s2_noun not,necessarily be
+43,activity,not s1_verb s1_adj,person not,s1_verb s1_noun be,be s1s2_adj s1s2_noun,s1s2_noun order,s2_verb not,s1s2_noun s1_noun s1_noun,picture
+44,different activity,s1_noun s1_noun s2_verb,s1s2_noun s2_part,be s2_noun,s1s2_verb s1s2_adj,s1_propn s1s2_noun,be s2_adj not,necessarily s2_verb,s1s2_verb not
+45,be different activity,s2_verb s1_verb time,s2_part s1s2_verb,s1_noun be form,s1s2_verb s1s2_adj s1s2_noun,form,age,necessarily s2_verb s2_noun,idea s1s2_noun
+46,s2_verb s2_noun s2_noun,s1_verb time,versus,imply be s2_noun,be s2_adp,be call,know be,necessarily s2_noun,game
+47,describe,s1_verb s1_adj s1_adj,be opposite,imply be s1s2_verb,type s1s2_noun,s1_num s1s2_noun,statement not specify,not necessarily s2_noun,necessarily s2_noun
+48,not s2_adj,s2_verb s2_noun s1_verb,time be,s1s2_noun be s1s2_noun,be s2_adj s1s2_noun,s1s2_noun mean,not specify s1s2_noun,be s2_verb,be s2_propn
+49,s1_adj s1_noun not,s1_noun,person,s1_noun imply be,s1_noun be s1_noun,s1s2_verb s1_adj,age s1s2_noun,s1_noun not imply,mean s2_verb

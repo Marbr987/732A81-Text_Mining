@@ -1,0 +1,51 @@
+,gpt3_contradiction,gpt2_contradiction,gold_contradiction,gpt3_entailment,gpt2_entailment,gold_entailment,gpt3_neutral,gpt2_neutral,gold_neutral
+0,be different,s2_verb same,not be,imply,be,s1s2_verb,not mean,not mean,not mean
+1,not,same,be not,imply s1s2_subj,s1_subj be s2_subj,be,mean,not mean s2_verb,not imply
+2,different,s1s2_subj not,not,s1s2_verb,be s2_subj,s1s2_subj,not mean s2_verb,mean s2_verb,mean
+3,be not,not,be different,s1s2_subj s1s2_verb,be be,s1s2_verb s1s2_subj,mean s2_verb,mean,not have
+4,not same,s1_verb s2_verb same,not play,s1s2_subj,s1_subj be,s1s2_subj s1s2_verb,know,not imply,not
+5,be not same,s1_verb s1_obj s2_verb,same,imply s1s2_subj s1s2_verb,s1_subj,be s2_verb be,not know,imply,not mean s2_verb
+6,s1s2_subj not,s2_obj same,s1s2_subj not,be,be s1_subj,sit s1s2_verb,not provide,mean s2_verb s2_obj,mean s2_verb
+7,same,s1_obj s2_verb,s1_subj not be,be be,be s1s2_subj,s1_subj be,not,s1_verb not mean,s1_obj not
+8,s1_subj not,s2_verb s2_obj same,different,s1_obj be,same s1s2_subj,be s2_verb,s1_verb not mean,s1_obj not,s1_verb not
+9,s2_verb same,s1_verb s2_verb,s1_subj not,s1s2_verb imply,walk s1s2_verb,s1s2_verb be,s1_verb not,s1_verb not,not infer
+10,s2_obj be different,not stand,s1_verb s2_verb,imply s1_subj,s1_subj be s1_verb,be same,s2_verb not,s1_obj not mean,s1_verb not mean
+11,not be,s2_subj not,not be s1_subj,be s1_verb,be s2_obj,s1_verb be,provide,s1s2_subj s1_verb,have
+12,s1_verb s2_verb same,not be,walk s1_verb,be s2_verb,s1s2_verb,s1_subj be be,mean s2_verb s2_obj,not,imply
+13,walk,be not,s2_obj same,s1_verb s1_obj be,s1s2_subj be s1s2_subj,s1s2_subj be s1s2_subj,not mean s2_verb s2_obj,s1_verb s1_obj not,not have s2_verb
+14,s1_verb s2_verb,not stand s1_verb,not walk,s1s2_obj,s1s2_subj,take,not imply,s1s2_subj s1_verb not,not imply s2_verb
+15,s1_obj s2_verb,be not s2_subj,not s2_subj,imply s2_subj s2_verb,s1s2_subj s1s2_subj,s2_verb be s2_verb,s2_subj not mean,s1s2_obj not,s1_obj not mean
+16,s1_verb s1_obj s2_verb,s1_subj not,not same,s1s2_verb s1s2_obj,be s2_subj be,s2_verb be,s2_subj s2_verb not,s2_verb s2_obj,infer
+17,s2_obj be,s1_verb,be not same,s1s2_subj s1s2_verb s1s2_obj,s1_subj be s1_subj,be s1s2_subj,s1_verb not mean s2_verb,s1s2_verb,s1_verb s1_obj not
+18,s2_verb s2_obj same,not s2_subj,be s1_subj s2_subj,s1s2_subj wear,be same s1s2_subj,s1s2_subj be,not imply s2_subj,s1_obj not imply,assume
+19,s1_subj be not,s1_subj not be,s1_obj s2_obj,s1_verb,wait,s1_subj,s1s2_subj s2_verb s2_obj,enjoy,not assume
+20,s1_subj not be,sit,s2_verb s1_verb,imply s2_subj,have s2_verb,be be,s1_verb not imply,enjoy s2_verb,mean s2_obj
+21,s1_obj s2_verb s2_obj,s2_verb,play,s2_subj s1s2_verb,s1s2_subj s1s2_obj,s1_verb imply,s1_subj s1_verb not,enjoy s2_verb s2_obj,s1s2_obj not
+22,s1_verb s1_obj s2_verb s2_obj,not sit,walk,imply s1s2_verb,have,s1s2_subj s1s2_subj s1s2_subj,s1_obj not mean,s1s2_verb s1s2_obj not,s1s2_subj s1_verb not
+23,s2_obj same,s1s2_subj not stand,not play s1s2_verb,be s1s2_verb,s2_obj be,s1s2_subj sit s1s2_verb,s1_subj s1_verb not imply,s2_subj s2_subj,not mean s2_obj
+24,s1_subj s2_verb,s1_obj s2_verb same,hold,s2_subj,s1s2_subj s1s2_verb,be s1s2_verb,not provide s1s2_subj,s2_obj not mean,not imply s1_subj
+25,describe,s1_subj be not,s1s2_verb s1_obj s2_obj,s1_verb imply,s1s2_subj be,s1s2_verb be same,s2_subj s1_verb not,s1s2_subj not mean,not imply s2_subj
+26,not be same,stand s1_verb s2_verb,s1_verb same,s2_subj s2_subj,be s1_verb,s1s2_verb s1s2_obj,mean s2_subj,s1s2_verb s1_obj not,imply s1_subj
+27,contradict,not walk,s2_verb s2_obj not,s1_obj imply,be s2_verb,s2_obj s2_obj,mean s1s2_subj s2_verb,imply s2_verb s2_obj,s1_verb not imply
+28,walk s1_verb,sit s2_verb,be not s2_subj,s1_subj imply,s1_obj be,s2_subj be s2_verb,not imply s1_subj,s2_obj not,have s2_verb
+29,s1_subj be different,s1_obj s2_verb s2_obj,s1_subj be not,s1_subj be s1_verb,s1_verb be,s1s2_subj s1s2_subj,not know s2_subj,s1s2_obj not mean,s2_subj s2_verb
+30,not play,not sit s2_verb,s2_obj be not,s1_subj,s1s2_obj,s2_subj be,mean s1s2_subj,s2_obj,s2_subj not have
+31,s2_verb s2_obj be,stand,s1s2_subj not play,be same,s2_verb s2_verb,sit,s1_verb s1_obj not mean,imply s2_verb,s1s2_verb s1s2_obj not
+32,s1_verb s2_verb s2_obj,s2_obj s1_verb,not walk s1_verb,s1s2_verb s2_obj,s1s2_subj s2_obj,s1_subj be s1_subj,s1_obj not mean s2_verb,s1_subj s1s2_verb,have s2_subj
+33,different s2_subj,walk s2_verb,s2_verb same,s2_verb,s1_obj s1s2_subj,s1s2_subj s1s2_verb be,s1s2_subj s1_verb s1_obj not,s2_verb not,not mention
+34,be different s2_subj,s2_verb s2_obj s1_verb,s2_subj,be s2_verb s2_obj,s1_obj be s2_obj,be same s1s2_verb,not mean s2_subj,s1_verb not imply,s2_verb not mean
+35,run,s2_verb s1_verb,be s1_subj,s1s2_verb be,s2_verb be,get,not know not,not imply s2_verb,mention
+36,be not same s2_subj,not play,s2_obj not,s1s2_subj s2_verb,s2_obj wear s2_verb,imply s2_verb s2_obj,not mean s2_subj s2_verb,s2_verb s1_obj,s1_subj not imply
+37,relate,not be same,s1s2_verb s1_obj,s1_verb s1_obj,s1s2_verb play,s2_verb s2_obj s2_obj,provide s2_subj,not look,s1_subj s1_verb not
+38,s2_subj be not,stand s1_verb,s1_subj s2_subj,wear,s1s2_subj wait,be s1_verb,not indicate,imply s1s2_verb,have s2_verb s2_obj
+39,not walk,not run,not run,s1_subj be,be s1s2_verb,walk s1s2_verb,not infer,not imply s1s2_verb,s2_verb
+40,not relate,s1_obj be not,drive s2_verb,imply s2_subj s2_verb s2_obj,spray s2_verb s2_obj,s1s2_subj sit,not imply s2_subj s2_verb,look,imply s2_verb
+41,different be,s1s2_subj not play,drive,be s1s2_subj,s1s2_subj wait s1s2_verb,be be s1_subj,not know s2_subj s2_verb,s1s2_obj,s1s2_verb not
+42,not wear,s1s2_subj not walk,drive s2_verb s2_obj,s1s2_subj s1s2_verb imply,spray s2_verb,be s2_obj,not mean s1s2_subj,not be not,imply s2_subj
+43,s1_verb be different,play s2_verb s2_obj,hold s1s2_verb,s1s2_subj s1s2_subj s1s2_subj,s1s2_verb be,s1_subj be s2_subj,know s2_subj s2_verb not,mean s2_verb s1s2_obj,s1s2_subj s1_verb
+44,describe different,not play s2_verb,not make,wear s1s2_verb,s1s2_verb be same,stand,know s2_subj s2_verb,not mean s1s2_subj,s1s2_obj
+45,not imply s2_verb s2_obj,not walk s2_verb,sit s1_verb,s1s2_verb imply s1s2_subj,s1s2_verb play s1s2_verb,s1s2_subj s2_obj,s1_verb not mean s1s2_subj,mean s1s2_subj s2_verb,run s1_verb
+46,s1_verb s1_obj s2_verb same,s2_subj,sit s1_verb s2_verb,s1s2_verb s1s2_obj imply,spray,s1s2_subj s1s2_verb s1s2_obj,know s2_subj,s1s2_subj s2_verb s1_obj,s2_verb not
+47,be not same s2_verb,walk,not drive,s1s2_verb imply s1s2_verb,s2_obj wear,jump,not provide s2_subj,mean s1s2_subj,s1_subj run s1_verb
+48,s1_obj s2_verb same,s1_verb s1_obj,make,s1_verb s1_obj imply,s1s2_verb s1_obj be,same s1s2_verb,not infer s1s2_subj,not wear s2_verb,not infer s2_verb
+49,s2_obj be not same,not s2_obj,walk s1_verb s2_verb,s1s2_subj wear s1s2_verb,s1s2_verb s1s2_subj s1s2_obj,s1_obj mean,not specify,prepare,not infer s2_subj
